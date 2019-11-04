@@ -91,7 +91,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.Color.Transparent
-        Me.Button1.BackgroundImage = Global.Item_Generator.My.Resources.Resources._180_50_Button
+        ' Me.Button1.BackgroundImage = Global.Item_Generator.My.Resources.Resources._180_50_Button
         Me.Button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.Button1.Font = New System.Drawing.Font("Old English Text MT", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(42, 396)
@@ -149,7 +149,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.BackgroundImage = Global.Item_Generator.My.Resources.Resources._180_50_Button
+        ' Me.Button2.BackgroundImage = Global.Item_Generator.My.Resources.Resources._180_50_Button
         Me.Button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.Button2.Font = New System.Drawing.Font("Old English Text MT", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(42, 458)
@@ -257,7 +257,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackgroundImage = Global.Item_Generator.My.Resources.Resources.Map_of_Known_World
+        ' Me.BackgroundImage = Global.Item_Generator.My.Resources.Resources.Map_of_Known_World
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(842, 557)
         Me.Controls.Add(Me.Panel2)
